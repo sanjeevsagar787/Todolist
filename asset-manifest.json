@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sanjeevsagar787/Todolist.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/sanjeevsagar787/Todolist.git/static/js/main.bb6eccc6.chunk.js",
+    "main.js.map": "/sanjeevsagar787/Todolist.git/static/js/main.bb6eccc6.chunk.js.map",
+    "runtime-main.js": "/sanjeevsagar787/Todolist.git/static/js/runtime-main.d59a9dd4.js",
+    "runtime-main.js.map": "/sanjeevsagar787/Todolist.git/static/js/runtime-main.d59a9dd4.js.map",
+    "static/js/2.cf696391.chunk.js": "/sanjeevsagar787/Todolist.git/static/js/2.cf696391.chunk.js",
+    "static/js/2.cf696391.chunk.js.map": "/sanjeevsagar787/Todolist.git/static/js/2.cf696391.chunk.js.map",
+    "static/js/3.59f12d79.chunk.js": "/sanjeevsagar787/Todolist.git/static/js/3.59f12d79.chunk.js",
+    "static/js/3.59f12d79.chunk.js.map": "/sanjeevsagar787/Todolist.git/static/js/3.59f12d79.chunk.js.map",
+    "index.html": "/sanjeevsagar787/Todolist.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sanjeevsagar787/Todolist.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cf696391.chunk.js.LICENSE.txt": "/sanjeevsagar787/Todolist.git/static/js/2.cf696391.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sanjeevsagar787/Todolist.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d59a9dd4.js",
+    "static/js/2.cf696391.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bb6eccc6.chunk.js"
+  ]
+}
